@@ -141,8 +141,51 @@ data:"12/07",
 estado:"Viva",
 status:"Ativa"
 
-}
+},
+  
+{
+nome:"Lucas Rocha",
+id:"2212",
+sexo:"Masculino",
+cep:"RS",
+data:"2212",
+estado:"Vivo",
+status:"Ativo"
 
+},
+
+{
+nome:"Adrielly Yasmin  ",
+id:"2407",
+sexo:"Feminino",
+cep:"RJ",
+data:"24/07",
+estado:"Viva",
+status:"Ativa"
+
+},
+
+{
+nome:"Fred West",
+id:"2909",
+sexo:"Masculino",
+cep:"UK",
+data:"29/09",
+estado:"Morto",
+status:"Inativo"
+
+},
+
+{
+nome:"Rose West ",
+id:"2911",
+sexo:"Feminino",
+cep:"UK",
+data:"29/11",
+estado:"Viva",
+status:"Presa"
+
+},
 ];
 
 const pesquisa = document.getElementById("pesquisa");
