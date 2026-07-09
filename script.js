@@ -1,43 +1,146 @@
 const banco = [
-
 {
-nome:"Bernardo Montes",
-id:"001",
+nome:"Henrique Ribeiro",
+id:"1109",
 sexo:"Masculino",
-cep:"23000-000",
-data:"24/09/2010",
-estado:"Rio de Janeiro",
+cep:"RJ",
+data:"11/09",
+estado:"Vivo",
 status:"Ativo"
 },
 
 {
-nome:"Lorenzo Silva",
-id:"002",
+nome:"Ronaldo Trindade Martins",
+id:"1606",
 sexo:"Masculino",
-cep:"21000-000",
-data:"12/02/2010",
-estado:"Rio de Janeiro",
-status:"Ativo"
+cep:"RJ",
+data:"16/06",
+estado:"???",
+status:"Desparecido"
 },
 
 {
-nome:"Marcos Souza",
-id:"003",
+nome:"Miquel Souza Ribeiro",
+id:"2101",
 sexo:"Masculino",
-cep:"22000-000",
-data:"03/08/2009",
-estado:"Rio de Janeiro",
+cep:"RJ",
+data:"21/01",
+estado:"Morto",
 status:"Inativo"
 },
 
+
 {
-nome:"Ana Clara",
-id:"004",
+nome:"João Gabriel Solido ",
+id:"0412",
 sexo:"Feminino",
-cep:"28000-000",
-data:"18/06/2008",
-estado:"Rio de Janeiro",
+cep:"MG",
+data:"04/12",
+estado:"Vivo",
+status:"Procurado"
+
+},
+{
+nome:"Caíque Maranhão de Azevedo",
+id:"2001",
+sexo:"Não Identificado",
+cep:"RJ",
+data:"20/01",
+estado:"Vivo",
 status:"Ativo"
+
+},
+{
+nome:"Larissa Moreira ",
+id:"1110",
+sexo:"Feminino",
+cep:"RJ",
+data:"1110",
+estado:"Viva",
+status:"Ativa"
+
+},
+{
+nome:"Caroline Roberts",
+id:"1955",
+sexo:"Feminino",
+cep:"UK",
+data:"??/??/1955",
+estado:"Morta",
+status:"Inativa"
+
+},
+{
+nome:"Michael Jackson ",
+id:"2908",
+sexo:"Masculino",
+cep:"IN/USA",
+data:"29/08",
+estado:"Vivo",
+status:"Procurado"
+
+},
+{
+nome:"Jessica Mulla Mendes ",
+id:"1008",
+sexo:"Feminino",
+cep:"RJ",
+data:"10/08",
+estado:"Viva",
+status:"Ativa"
+
+},
+
+{
+nome:"Epstein Gomes Microsoft ",
+id:"1008",
+sexo:"Masculino",
+cep:"BA",
+data:"1008",
+estado:"Vivo",
+status:"Procurado"
+
+},
+{
+nome:"Jair Messias Bolsonaro ",
+id:"2103",
+sexo:"Maculino",
+cep:"SP",
+data:"21/03",
+estado:"Morto",
+status:"Inativo"
+
+},
+{
+nome:"Luíz Inácio Lula da Silva",
+id:"2710",
+sexo:"Feminino",
+cep:"PE",
+data:"27/10",
+estado:"Morto",
+status:"Inativo"
+
+},
+{
+nome:"Isabella de Carvalho",
+id:"1410",
+sexo:"Feminino",
+cep:"RJ",
+data:"14/10",
+estado:"Viva",
+status:"Ativa"
+
+},
+
+{
+nome:"Emanuelle Dutra ",
+id:"1207",
+sexo:"Feminino",
+cep:"RJ",
+data:"12/07",
+estado:"Viva",
+status:"Ativa"
+
 }
 
 ];
